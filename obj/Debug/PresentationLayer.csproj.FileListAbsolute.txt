@@ -1,0 +1,11 @@
+G:\C# class work\WebApplication\WebApplication\bin\WebApplication.dll
+G:\C# class work\WebApplication\WebApplication\bin\WebApplication.pdb
+G:\C# class work\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+G:\C# class work\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+G:\C# class work\WebApplication\WebApplication\bin\WebApplication.dll.config
+G:\C# class work\WebApplication\WebApplication\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+G:\Programming\Term1\C# class work\WebApplication\WebApplication\bin\WebApplication.dll
+G:\Programming\Term1\C# class work\WebApplication\WebApplication\bin\WebApplication.pdb
+G:\Programming\Term1\C# class work\WebApplication\WebApplication\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+G:\Programming\Term1\C# class work\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+G:\Programming\Term1\C# class work\WebApplication\WebApplication\obj\Debug\WebApplication.pdb

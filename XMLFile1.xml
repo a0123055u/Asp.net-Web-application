@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<node url="" title="Menu"  description="">
+  <Node url="~/WelcomePageNew.aspx" title="Home" description=""/>
+  <Node url="~/CustReg.aspx" title="Registration" description=""/>
+  <Node url="~/Contactus.aspx" title="Contactus" description=""/>
+</node>
